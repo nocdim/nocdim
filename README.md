@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nocdim or nokkudimu
 - 👀 I’m interested in working on web-applications, games and anything really :)
-- 🌱 Previously I used to develop JavaScript, TypeScript, React, Redux, Node.js, C#, ASP.NET Core applications
-- 💞️ Now I'm developing *useful* additional 1C Enterprise applications, that make people's work a little bit easier :)
+- 🌱 Right now I'm obsessed with the idea of using JavaScript to solve all the problems that internal 1C language can't!
+- 💞️ Now I'm developing *useful* additional 1C Enterprise / Javascript applications, that make people's work a little bit easier :)
 - 📫 How to reach me nokkudimu@gmail.com
 
 <!---
